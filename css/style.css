@@ -89,3 +89,11 @@ body {
   max-height: 20rem;
   resize: vertical;
 }
+
+
+@media (max-width: 789px) {
+    #survey-form {
+      width: 90%;
+      padding: 2rem;
+    }
+}
